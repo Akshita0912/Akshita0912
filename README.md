@@ -1,78 +1,53 @@
-<h1 align="center">Hi 👋, I'm Akshita Bhamidipati</h1>
+# Hi, I'm Akshita 👋
 
-<h3 align="center">
-Software Engineer | AI & ML | Data Analytics | Python | Java | SQL
-</h3>
+I'm a 2026 Computer Science graduate specializing in Artificial Intelligence and Machine Learning.
 
-<p align="center">
-💼 IT Associate Trainee @ Cantor Fitzgerald &nbsp;|&nbsp;
-🎓 B.Tech CSE (AI & ML), Class of 2026 &nbsp;|&nbsp;
-📚 Published Research Author
-</p>
+Currently, I'm working as an IT Associate Trainee at Cantor Fitzgerald, where I build automation solutions and work on improving operational efficiency through technology.
+
+My interests lie at the intersection of software engineering, data analytics, machine learning, and automation. I enjoy building practical solutions that solve real-world problems and turning ideas into working systems.
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML), Class of 2026
-- 📊 CGPA: **7.93**
-- 💼 IT Associate Trainee at **Cantor Fitzgerald**
-- 🤖 AI & Data Analytics Intern at **Edunet Foundation**
-- 📚 Published Research Author in **Journal of Computational Science and Engineering (TJCSE), January 2026**
-- 💡 Passionate about Software Engineering, Artificial Intelligence, Data Analytics, and Cloud Technologies
-- 🌱 Currently strengthening Data Structures & Algorithms, Backend Development, and System Design
-
----
-
-## 💼 Professional Experience
+## Experience
 
 ### IT Associate Trainee | Cantor Fitzgerald
 
-- Automated business workflows using Python, PowerShell, and Microsoft Power Automate
-- Reduced manual effort by approximately 30% through process automation
-- Developed reusable automation solutions supporting Dynamics 365 CRM
-- Worked in Agile teams using Jira and Confluence
+- Built automation solutions using Python, PowerShell, and Microsoft Power Automate
+- Worked with Dynamics 365 CRM workflows and business process automation
+- Reduced manual effort through automation initiatives
+- Collaborated in Agile teams using Jira and Confluence
 
 ### AI & Data Analytics Intern | Edunet Foundation
 
-- Built end-to-end Machine Learning workflows
-- Performed data preprocessing, model training, evaluation, and analysis
-- Developed AI-powered solutions using industry-standard practices
+- Worked on machine learning and analytics projects
+- Built end-to-end workflows involving data preparation, model development, and evaluation
+- Gained hands-on experience with real-world datasets and business problems
 
 ---
 
-## 🔬 Research Publication
+## Research Publication
 
 ### NipahSense: AI-Augmented Outbreak Detection and Zone-Based Risk Classification Leveraging ARIMA and LSTM Networks
 
-📚 Published in **The Journal of Computational Science and Engineering (TJCSE)**
+Published in the **Journal of Computational Science and Engineering (TJCSE)**  
+Volume 4, Issue 1 — January 2026
 
-**Volume 4, Issue 1 (January 2026)**
+This research explores how machine learning and time-series forecasting can be used for early risk detection and decision support.
 
-#### Key Contributions
+The framework combines:
 
-- Developed a hybrid ARIMA + LSTM forecasting framework
-- Implemented zone-based risk classification methodology
-- Designed a modular and scalable AI architecture
-- Enabled near real-time monitoring and risk intelligence
-- Improved forecasting reliability through combined statistical and deep learning approaches
+- ARIMA for trend and seasonality modeling
+- LSTM networks for capturing complex temporal patterns
+- Zone-based risk classification for actionable insights
 
-#### Applications
-
-- Public Health Analytics
-- Risk Monitoring
-- Demand Forecasting
-- Early Warning Systems
-- Decision Intelligence
-
-🔗 Publication:
+Publication:
 https://lnkd.in/dBJxbG_d
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### Programming Languages
+### Languages
 
 - Python
 - Java
@@ -81,35 +56,33 @@ https://lnkd.in/dBJxbG_d
 
 ### Software Engineering
 
-- Data Structures & Algorithms
+- Data Structures and Algorithms
 - Object-Oriented Programming
 - DBMS
 - Software Engineering
-- Agile Methodologies
+- Agile Development
 
 ### AI & Machine Learning
 
 - Machine Learning
-- Deep Learning
+- Time Series Forecasting
 - ARIMA
 - LSTM
-- NLP
+- Natural Language Processing
 - Computer Vision
-- Time Series Forecasting
 
-### Data Analytics & BI
+### Data Analytics
 
 - Power BI
 - Tableau
 - Data Visualization
 - Business Analytics
-- Excel
 
-### Cloud & Tools
+### Tools & Platforms
 
-- AWS
 - Git
 - GitHub
+- AWS
 - Jira
 - Confluence
 - Linux
@@ -117,72 +90,46 @@ https://lnkd.in/dBJxbG_d
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 GuardianAI
-Multimodal emergency detection platform integrating speech analysis, facial emotion recognition, and intelligent alert systems.
+### GuardianAI
+A multimodal emergency detection system that combines speech analysis, facial emotion recognition, and intelligent alert mechanisms.
 
-### 📈 NipahSense
-AI-powered outbreak prediction and zone-based risk classification framework using ARIMA and LSTM models.
+### NipahSense
+An AI-powered outbreak forecasting and risk classification framework built using ARIMA and LSTM models.
 
-### 📊 Global Superstore Sales Analytics Dashboard
-Interactive Power BI dashboard providing revenue analysis, customer insights, and business intelligence reporting.
+### Global Superstore Sales Analysis
+Interactive Power BI dashboards focused on sales performance, customer insights, and business intelligence.
 
-### 🔐 AI-Based KYC Verification System
-AI-driven identity verification workflow for automated validation and compliance support.
+### AI-Based KYC Verification
+An AI-assisted identity verification workflow designed to improve validation efficiency and accuracy.
 
-### 📝 Meeting Minutes Agent
-Intelligent assistant that summarizes meetings and extracts actionable insights automatically.
+### Meeting Minutes Agent
+An intelligent assistant that summarizes meetings and extracts key action items automatically.
 
-### 🎯 Object Detection and Counting System
-Computer vision application for real-time object detection, classification, and counting.
-
----
-
-## 🏆 Achievements
-
-- 📚 Published Research Author (TJCSE, 2026)
-- 🏅 TCS iON NQT Score: **2100.78 / 3000**
-- 🧠 Programming Score: **79.2%**
-- 🎯 Reasoning Ability Score: **92.1%**
-- 🎓 10th Grade: **95%**
-- 🎓 Intermediate: **97.9%**
+### Object Detection and Counting
+A computer vision project focused on real-time object detection and counting.
 
 ---
 
-## 📈 GitHub Statistics
+## Currently Working On
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshita0912&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita0912&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshita0912&theme=tokyonight" height="180"/>
-</p>
+- Strengthening Data Structures and Algorithms
+- Backend Development with Java
+- Machine Learning Applications
+- Cloud Technologies
+- Building production-ready software projects
 
 ---
 
-## 🎯 Career Interests
+## Connect With Me
 
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Business Intelligence
-- Cloud Computing
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn:
+LinkedIn:
 www.linkedin.com/in/bhamidipatiakshita
 
-📧 Email:
+Email:
 akshitabhamidipati@gmail.com
 
 ---
 
-### ⭐ Building intelligent software solutions that combine engineering, analytics, and AI to solve real-world problems.
+*"I enjoy building technology that combines software engineering, analytics, and AI to solve practical problems."*
